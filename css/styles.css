@@ -1,0 +1,110 @@
+body{
+  /*background-color: #e4f5f7;*/
+  background-color: #11ffee00;
+  margin: 0;
+}
+hr{
+  border-style: dotted none none ;
+  width: 10%;
+  border-width: 5px;
+  border-color: gold;
+}
+video{
+  width:250px;
+  height: 200px;
+  margin-right: 1%;
+  margin-top: 1%;
+}
+h1{
+  font-family: cursive;
+color: deeppink;
+display: inline-block;
+}
+/*p{
+  color: deeppink;
+}*/
+h3{
+  color: purple;
+  text-align: center;
+}
+td{
+  color: #fe00ef;
+  text-align: center;
+  width:10%;
+  height: 10%;
+}
+th{
+ color: black;
+ background-color: gray;
+}
+/********  CLASS   ********/
+.h12{
+  text-align: center;
+}
+
+.div2{
+  background-color: #e4f5f6;
+
+  width: 100%;
+}
+.imgcloud{
+  display: block;
+  position: relative;
+  left:68%;
+  top: 20px;
+  bottom: 20px;
+}
+.imgcloud2{
+  position: absolute;
+  display:inline-block;
+  left: 6%;
+  top: 21%;
+}
+.lst{
+  background-color: #fdf9f9;
+}
+.pod1{
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 210px;
+
+}
+.sat{
+  position:relative;
+   background-color: #fcfeeb;
+   text-align: center;
+     width: 100%;
+}
+.vid{
+  background-color:#66bfbf;
+}
+.vid1{
+  border-radius: 100%;
+     width: 50%;
+      margin: 7%;
+      display: inline-block;
+      position: relative;
+}
+.wrk{
+  border-radius: 100%;
+  position: relative;
+  display: inline-block;
+  left: auto;
+}
+
+
+/************ ID*********************/
+#img1{
+  position: absolute;
+}
+#lst1{
+  border-radius: 100%;
+  width:250px;
+  margin-left:3%;
+  margin-bottom: 1%;
+  margin-top: .5%;
+}
+#cpyrt{
+  text-align: center;
+  color: black;
+}
